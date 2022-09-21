@@ -9,5 +9,6 @@ public class HomeController {
 	@RequestMapping("/index")
 	public String abcd() {
 	   return "123";
+	   
    }
 }
